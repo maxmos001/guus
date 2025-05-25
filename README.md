@@ -33,13 +33,6 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
   - [Debugging](#Debugging)
   - [Known issues](#known-issues)
 
-## Development resources
-
-- Web: [guus.website](https://guus.website)
-- Forum: [Discord](https://discord.gg/HpqF42znPm)
-- GitHub: [https://github.com/framepix/guus-core](https://github.com/framepix/guus-core)
-
-
 ## Vulnerability response
 
 - Our [Vulnerability Response Process](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) encourages responsible disclosure
